@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Freebitco.in Solver
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  try to take over the world!
-// @author       You
+// @author       Larry Suniaga
 // @include      *://*.*
 // @grant        GM_xmlhttpRequest
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
