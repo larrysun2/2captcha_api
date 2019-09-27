@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Freebitco.in Solver
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       Larry Suniaga
 // @include      *://*.*
@@ -16,7 +16,7 @@
 
 (function() {
 	/* API KEY */
-	var apiKey = "01d60e7e4a9ea702b7bb639fec2c1908";
+	var apiKey = "";
 	var serverDomain = "https://2captcha.com/";
 	var urlIn = serverDomain + "in.php";
 	var urlRes = serverDomain + "res.php"
