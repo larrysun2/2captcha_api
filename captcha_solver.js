@@ -10,8 +10,8 @@
 // @connect      2captcha.com
 // @connect      *
 // @noframes
-// @updateURL    https://raw.githubusercontent.com/larrysun2/2captcha_api/master/captcha_solver.js
-// @downloadURL  https://raw.githubusercontent.com/larrysun2/2captcha_api/master/captcha_solver.js
+// @updateURL    https://github.com/larrysun2/2captcha_api/raw/master/captcha_solver.js
+// @downloadURL  https://github.com/larrysun2/2captcha_api/raw/master/captcha_solver.js
 // ==/UserScript==
 
 (function() {
